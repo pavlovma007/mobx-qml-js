@@ -10,5 +10,5 @@ And i write small replacement with same conception.
 
 > now it not for production. it is an experiment
 
-![](doc/screen 2023-03-16 16-15-31.png)
+![](doc/screen%202023-03-16%2016-15-31.png)
 
