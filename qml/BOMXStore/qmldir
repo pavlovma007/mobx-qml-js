@@ -1,0 +1,2 @@
+module BOMXStore
+singleton Store 1.0 Store.qml
